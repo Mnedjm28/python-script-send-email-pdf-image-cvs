@@ -17,3 +17,25 @@ The script demonstrates **sending emails programmatically**, handling attachment
 - Secure connection using **STARTTLS**  
 - Customizable email subject and content  
 - Error handling to catch failed email attempts  
+
+---
+
+## Installation
+1. Clone the repository:  
+    ```bash
+    git clone https://github.com/Mnedjm28/python-script-send-email-pdf-image-cvs
+    ```
+2. Navigate to the project folder:
+    ```bash
+    cd python-script-send-email-pdf-image-cvs
+    ```
+
+3. Install dependencies from the requirements.txt file:
+    ```bash
+    pip install -r requirements.txt
+    ```
+    
+4. Run the application:
+    ```bash
+    python main.py
+    ```
