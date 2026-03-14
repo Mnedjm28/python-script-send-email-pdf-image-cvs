@@ -23,7 +23,7 @@ The script demonstrates **sending emails programmatically**, handling attachment
 ## Installation
 1. Clone the repository:  
     ```bash
-    git clone https://github.com/Mnedjm28/python-script-send-email-pdf-image-cvs
+    git clone https://github.com/Mnedjm28/python-script-send-email-pdf-image-cvs.git
     ```
 2. Navigate to the project folder:
     ```bash
